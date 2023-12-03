@@ -1,0 +1,6 @@
+[user]
+	signingkey = 4A6E77F14CFA5028
+	name = Hilmi AM
+	email = imiia75775@proton.me
+[commit]
+	gpgsign = true
